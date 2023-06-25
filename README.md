@@ -10,7 +10,7 @@ The project focuses on various aspects of QA automation, including test planning
 
 The repository follows a well-organized structure to facilitate easy navigation and understanding of the project.
 - Lesson: conatins code shown and explained by the teacher during online-lesson
-- Homework: containts practical exercises executed by the students after each lesson
+  - Homework: containts practical exercises executed by the students after each lesson
 
 ### Getting Started
 
@@ -19,3 +19,11 @@ To get started with this project, follow these steps:
 Clone the repository using the following command:
 
 `git clone https://github.com/ZhuravlovM/AQA_Python_2023_Zhuravlov.git`
+
+### Contributing
+
+Contributions to this project are welcome. If you find any issues or have suggestions for improvements, feel free to open an issue or submit a pull request.
+
+### Contact
+
+For any questions or feedback regarding this project, please contact Mykyta Zhuravlov at zhuravlov.mykyta@gmail.com.
