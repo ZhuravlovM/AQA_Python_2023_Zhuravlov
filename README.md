@@ -1,4 +1,4 @@
-### QA Automation Python Project
+### QA Automation Python Learning Project
 
 This repository contains a student's project focused on learning QA automation using Python. The project aims to provide practical examples and exercises to enhance understanding and proficiency in automating quality assurance tasks.
 
