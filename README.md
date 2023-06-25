@@ -10,7 +10,7 @@ The project focuses on various aspects of QA automation, including test planning
 
 The repository follows a well-organized structure to facilitate easy navigation and understanding of the project.
 - Lesson: contains code shown and explained by the teacher during lesson
-  - Homework: containts practical exercises executed by the student after each lesson
+  - Homework: contains practical exercises executed by the student after each lesson
 
 ### Getting Started
 
