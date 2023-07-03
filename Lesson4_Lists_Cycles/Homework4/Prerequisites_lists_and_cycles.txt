@@ -1,0 +1,25 @@
+Написати програму, для введення та перегляду нотаток.
+Програма пропонує користувачу вводити ключові слова, та опрацьовує їх. Перелік ключових слів:
+
+    add - додати нотатку. Користувач вводить текст нотатки, який зберігається у програмі та є дійсним до її завершення
+    earliest - виводить збережені нотатки у хронологічному порядку - від найстарішої до найновішої
+    latest - виводить збережені нотатки у хронологічному порядку - від найновішої до найстарішої
+    longest - виводить збережені нотатки у порядку їх довжини - від найдовшої до найкоротшої
+    shortest - виводить збережені нотатки у порядку їх довжини - від найкоротшої до найдовшої
+    Exit - вихід
+
+
+Приклад:
+> add  > Введіть нотатку: this is note
+> add  > Введіть нотатку: this is notissimo
+> add  > Введіть нотатку: note
+> add > Введіть нотатку: this is a huge long, insanely long note
+> add > Введіть нотатку: well, anyways
+> earliest > Від найновішої до найпізнішої:
+> this is note > this is notissimo > note > this is a huge long, insanely long note > well, anyways
+> latest > Від найпізнішої до найновішої:
+> well, anyways > this is a huge long, insanely long note > note > this is notissimo > this is note
+> longest > Від найдовшої до найкоротшоЇ:
+> this is a huge long, insanely long note > this is notissimo> well, anyways > this is note > note
+> shortest > Від найкоротшої до найдовшої:
+> note > this is note > well, anyways > this is notissimo > this is a huge long, insanely long note
