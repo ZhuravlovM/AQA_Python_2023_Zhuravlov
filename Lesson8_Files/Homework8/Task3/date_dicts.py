@@ -14,5 +14,6 @@ def parse_dates_from_file(processed_file):
 
 
 file_name = 'authors.txt'
-result = parse_dates_from_file(file_name)
-print('Dates from authors.txt:\n', result)
+parsed_dates = parse_dates_from_file(file_name)
+print('Dates from authors.txt:')
+print(parsed_dates)
