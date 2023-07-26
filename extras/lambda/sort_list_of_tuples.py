@@ -1,4 +1,4 @@
-# Write a Python program to sort a list of tuples using Lambda
+# Write a Python program to sort a list of tuples using lambda
 
 parts_price = [('rim', 50), ('brake pads', 15), ('coolant', 18), ('clips', 4)]
 print("Original:", parts_price)
