@@ -53,7 +53,7 @@ class Impreza(Subaru):
             print("This Impreza is not turbo-charged")
 
 
-impreza = Impreza(make="Subaru", model="Impreza", year=2004, wheels_number=4, turbo=True)
+impreza = Impreza("Subaru", "Impreza", 2004, 4, True)
 
 impreza.get_info()
 impreza.is_turbo()
