@@ -3,7 +3,7 @@ import datetime
 
 def age_calculation(birth_date):
     current_date = datetime.datetime.now()
-    current_age = round((current_date - birth_date).days/365)
+    current_age = (current_date - birth_date).days // 365
     age_timestamp = birth_date.timestamp()
     return current_age, age_timestamp
 
