@@ -20,8 +20,6 @@ class Traffic_light:
         return super().__getattribute__(item)
 
 
-
-
 traffic_light_1 = Traffic_light()
 print(traffic_light_1)
 #traffic_light_2 = eval(repr(traffic_light_1))
