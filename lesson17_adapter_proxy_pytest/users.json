@@ -1,0 +1,20 @@
+[
+    {
+        "name": "John",
+        " age": " 50",
+        " location": " Germany",
+        " avg_payment": " 3000"
+    },
+    {
+        "name": "Tiffany",
+        " age": " 25",
+        " location": " France",
+        " avg_payment": " 200"
+    },
+    {
+        "name": "Ingvar",
+        " age": " 35",
+        " location": " Norway",
+        " avg_payment": " 14000"
+    }
+]

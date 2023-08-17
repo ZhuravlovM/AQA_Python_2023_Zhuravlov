@@ -1,0 +1,5 @@
+[
+  "test_human_pytest.py::TestHuman::test_check_age",
+  "test_human_pytest.py::TestHuman::test_hair_color_change",
+  "test_human_pytest.py::TestHuman::test_hair_color_change2"
+]

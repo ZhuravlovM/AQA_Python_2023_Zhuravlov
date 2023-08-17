@@ -1,0 +1,4 @@
+{
+  "test_human_pytest.py::TestHuman::test_hair_color_change": true,
+  "test_human_pytest.py::TestHuman::test_hair_color_change2": true
+}
