@@ -2,6 +2,7 @@ from lesson20_framework.pages.base_page import BasePage
 from lesson20_framework.pages.product_page import ProductPage
 from lesson20_framework.core.categories_locators import CategoriesLocator
 
+
 class CategoryPage(BasePage):
     def __init__(self, driver):
         super().__init__(driver)
