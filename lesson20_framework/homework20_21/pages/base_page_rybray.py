@@ -19,8 +19,11 @@ class BasePageRybray:
         self.wait_for_element(locator).send_keys(text)
 
     def press_enter(self, locator):
-        self.wait_for_element(locator).send.keys(Keys.ENTER)
+        self.wait_for_element(locator).send_keys(Keys.ENTER)
 
     def refresh_page(self):
         self._driver.refresh()
+
+    def check_element(self, locator):
+        return self._driver.find_element(*locator)
         
