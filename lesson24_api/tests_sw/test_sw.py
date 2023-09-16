@@ -1,5 +1,6 @@
 import pytest
 from lesson24_api.test_data.people_test_data import test_data, expected_data
+from lesson24_api.infrastructure.people import People
 
 ids = 'test_id, expect_id'
 

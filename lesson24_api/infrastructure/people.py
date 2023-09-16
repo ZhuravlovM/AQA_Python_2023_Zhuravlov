@@ -2,22 +2,22 @@
 
 class People:
     def __init__(self,
-                 name,
-                 height,
-                 mass,
-                 hair_color,
-                 skin_color,
-                 eye_color,
-                 birth_year,
-                 gender,
-                 homeworld,
-                 films,
-                 species,
-                 vehicles,
-                 starships,
-                 created,
-                 edited,
-                 url):
+    name,
+    height,
+    mass,
+    hair_color,
+    skin_color,
+    eye_color,
+    birth_year,
+    gender,
+    homeworld,
+    films,
+    species,
+    vehicles,
+    starships,
+    created,
+    edited,
+    url):
         self.name = name
         self.height = height
         self.mass = mass
