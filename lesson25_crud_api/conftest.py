@@ -1,5 +1,5 @@
 import pytest
-import lesson25_resful_api.infrastructure
+import lesson25_crud_api.infrastructure
 
 
 @pytest.fixture()

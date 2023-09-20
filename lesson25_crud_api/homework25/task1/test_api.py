@@ -1,5 +1,5 @@
 import requests
-import lesson25_resful_api.homework25.task1.infrastructure as infra
+import lesson25_crud_api.homework25.task1.infrastructure as infra
 
 
 def test_get_single_object_7():

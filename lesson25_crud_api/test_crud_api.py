@@ -1,4 +1,4 @@
-import lesson25_resful_api.infrastructure as infra
+import lesson25_crud_api.infrastructure as infra
 from requests import exceptions
 import json
 import requests
