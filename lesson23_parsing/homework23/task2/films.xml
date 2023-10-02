@@ -6,11 +6,7 @@
                 <format multiple="No">DVD</format>
                 <year>1981</year>
                 <rating>PG</rating>
-                <description>
-                'Archaeologist and adventurer Indiana Jones
-                is hired by the U.S. government to find the Ark of the
-                Covenant before the Nazis.'
-                </description>
+                <description>'Archaeologist and adventurer Indiana Jones is hired by the U.S. government to find the Ark of the Covenant before the Nazis.'</description>
             </movie>
                <movie favorite="True" title="THE KARATE KID">
                <format multiple="Yes">DVD,Online</format>
@@ -30,8 +26,7 @@
                <format multiple="Yes">dvd, digital</format>
                <year>2000</year>
                <rating>PG-13</rating>
-               <description>Two mutants come to a private academy for their kind whose resident superhero team must
-               oppose a terrorist organization with similar powers.</description>
+               <description>Two mutants come to a private academy for their kind whose resident superhero team must oppose a terrorist organization with similar powers.</description>
             </movie>
             <movie favorite="True" title="Batman Returns">
                <format multiple="No">VHS</format>
@@ -47,7 +42,6 @@
             </movie>
         </decade>
     </genre>
-
     <genre category="Thriller">
         <decade years="1970s">
             <movie favorite="False" title="ALIEN">
